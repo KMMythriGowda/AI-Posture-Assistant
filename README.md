@@ -1,7 +1,12 @@
 # AI Posture Assistant
 
 An AI-based posture detection system that analyzes human body posture using computer vision and provides feedback to improve sitting habits.
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-Enabled-green)
+![OpenCV](https://img.shields.io/badge/OpenCV-ComputerVision-orange)
+![License](https://img.shields.io/badge/License-MIT-brightgreen)
 
+An AI-based posture detection system that analyzes human body posture using computer vision and provides feedback to improve sitting habits.
 ---
 
 ## Project Overview
