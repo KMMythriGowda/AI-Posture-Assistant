@@ -64,6 +64,7 @@ AI-Posture-Assistant/
 
 ## How to Run
 
+
 ### 1️⃣ Install Required Libraries
 
 ```bash
