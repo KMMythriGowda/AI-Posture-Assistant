@@ -6,7 +6,6 @@ An AI-based posture detection system that analyzes human body posture using comp
 ![OpenCV](https://img.shields.io/badge/OpenCV-ComputerVision-orange)
 ![License](https://img.shields.io/badge/License-MIT-brightgreen)
 
-An AI-based posture detection system that analyzes human body posture using computer vision and provides feedback to improve sitting habits.
 
 ---
 
