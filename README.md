@@ -49,7 +49,9 @@ It then provides corrective suggestions to improve posture.
 
 ## 📂 Project Structure
 AI-Posture-Assistant/
+
 │── AI_Posture_Assistant.ipynb
+
 │── README.md
 
 
