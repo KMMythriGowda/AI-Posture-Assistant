@@ -1,10 +1,10 @@
-# 🧍‍♂️ AI Posture Assistant
+# AI Posture Assistant
 
 An AI-based posture detection system that analyzes human body posture using computer vision and provides feedback to improve sitting habits.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 AI Posture Assistant uses pose estimation to detect body landmarks and calculate neck angle.  
 Based on the calculated angle, it determines whether the person is:
@@ -16,7 +16,7 @@ It then provides corrective suggestions to improve posture.
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python  
 - MediaPipe  
@@ -27,7 +27,7 @@ It then provides corrective suggestions to improve posture.
 
 ---
 
-## 🧠 How It Works
+## How It Works
 
 1. The system loads an image.
 2. MediaPipe detects body landmarks.
@@ -37,7 +37,7 @@ It then provides corrective suggestions to improve posture.
 
 ---
 
-## 🚀 Features
+## Features
 
 - Real-time pose detection  
 - Neck angle calculation  
@@ -47,7 +47,7 @@ It then provides corrective suggestions to improve posture.
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 AI-Posture-Assistant/
 
 │── AI_Posture_Assistant.ipynb
@@ -57,7 +57,7 @@ AI-Posture-Assistant/
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 ### 1️⃣ Install Required Libraries
 
@@ -78,11 +78,8 @@ Suggestion: Sit straight & pull shoulders back
 🎯 Applications
 
 Students
-
 Office employees
-
 Work-from-home professionals
-
 Ergonomic health monitoring
 
 👩‍💻 Author
