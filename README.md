@@ -60,6 +60,15 @@ AI-Posture-Assistant/
 │── README.md
 
 
+## 🔮 Future Improvements
+
+- Real-time webcam posture detection
+- Mobile application integration
+- Alert notification system for long slouching
+- Machine learning-based posture scoring
+- Desktop app using Tkinter or Streamlit
+
+  
 ---
 
 ## How to Run
